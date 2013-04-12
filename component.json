@@ -1,0 +1,13 @@
+{
+  "name": "env",
+  "repo": "indabaui/env",
+  "description": "indaba specific environment settings",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
